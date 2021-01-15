@@ -1,0 +1,22 @@
+{
+  "name": "lights-out-game-",
+  "version": "1.0.0",
+  "description": "A fun personal project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinRenteria/Lights-Out-Game-.git"
+  },
+  "author": "Martin Renteria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MartinRenteria/Lights-Out-Game-/issues"
+  },
+  "homepage": "https://github.com/MartinRenteria/Lights-Out-Game-#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
