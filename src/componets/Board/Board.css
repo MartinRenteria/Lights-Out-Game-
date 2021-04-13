@@ -21,3 +21,31 @@
     align-items: center;
     justify-content: center;
   }
+
+  .neon-orange {
+    font-family: neon;
+    color: #aa168a;
+    font-size: 75px;
+    text-shadow: 0 0 3vw #cc409d;
+  
+    animation: neon-orange 1s ease infinite;
+    -moz-animation: neon-orange 1s ease infinite;
+    -webkit-animation: neon-orange 1s ease infinite;
+  }
+  
+  .neon-blue {
+    font-family: neon;
+    color: #426dfb;
+    font-size: 75px;
+    text-shadow: 0 0 3vw #2356ff;
+  
+    animation: neon-blue 2s linear infinite;
+    -moz-animation: neon-blue 2s linear infinite;
+    -webkit-animation: neon-blue 2s linear infinite;
+    -o-animation: neon-blue 2s linear infinite;
+  }
+  
+  .winner .neon-blue,
+  .winner .neon-orange {
+    font-size: 100px;
+  }
