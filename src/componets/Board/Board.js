@@ -77,7 +77,7 @@ class Board extends Component {
         ) : (
           <div>
             <div className="Board-title">
-              <div className="neon-orange">Ligths</div>
+              <div className="neon-orange">Lights</div>
               <div className="neon-blue">Out</div>
             </div>
             <table className="Board">
