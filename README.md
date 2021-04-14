@@ -3,7 +3,7 @@
 # Google-Book-Search-With-React
 
 ## **Description**
-
+Lights Out is a game that consists of a 5 by 5 grid of lights. When the game starts, a random number or a stored pattern of these lights is switched on. Pressing any of the lights will toggle it and the adjacent lights. The goal of the puzzle is to switch all the lights off. Have fun in completing this game!
 
 <br>
 
